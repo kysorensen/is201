@@ -1,0 +1,27 @@
+maintitle {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    color: white;
+    
+}
+
+importedimg {
+    margin: 5px;
+    size: 25%;
+    border: 2px white;
+}
+
+tabs {
+    font: underline black;
+    border: 1px black;
+}
+
+body {
+
+}
+
+
+
+h2 {
+    font-size: 225%;
+}
+
