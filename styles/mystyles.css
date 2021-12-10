@@ -1,27 +1,29 @@
-maintitle {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
-    color: white;
-    
-}
-
-importedimg {
-    margin: 5px;
-    size: 25%;
-    border: 2px white;
-}
-
-tabs {
-    font: underline black;
-    border: 1px black;
-}
-
 body {
-
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
 
 h2 {
     font-size: 225%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+
+.subheading {
+    color: white;
+    font-size: 150%;
+}
+
+.h9 {
+    color: black;
+    font-size: 50%;
 }
 
